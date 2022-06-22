@@ -1,126 +1,127 @@
-https://www.facebook.com/l.php?u=https://www.facebook.com/l.php?u=",
-https://www.facebook.com/sharer/sharer.php?u=https://www.facebook.com/sharer"
-sharer.php?u=",
-https://drive.google.com/viewerng/viewer?url=",
-https://www.google.com/translate?u=",
-http://66.20.105.143/bitess/plugins/content/plugin_googlemap2_proxy.php?url=",
-ttp://about42.nl/www/showheaders.php;POST;about42.nl.txt",
-http://agenzia-anna.com/plugins/system/plugin_googlemap2/plugin_googlemap2_proxy.php?url=",
-http://anonymouse.org/cgi-bin/anon-www.cgi/",
-http://basketgbkoekelare.be/plugins/content/plugin_googlemap2_proxy.php?url=", "http://bbtoma.com/plugins/content/plugin_googlemap2_proxy.php?url=",
-http://bemaxjavea.com/javea-rentals-alquileres/plugins/content/plugin_googlemap2_proxy.php?url=",
-ttp://bike-electric.co.uk/plugins/system/plugin_googlemap3/plugin_googlemap3_proxy.php?url=",
-htp://browsershots.org;POST;browsershots.org.txt",
-http://bwsnt1.pdsda.net/plugins/system/plugin_googlemap3_proxy.php?url=",
-http://centrobrico.net/plugins/content/plugin_googlemap2_proxy.php?url=",
-http://check-host.net/check-http?host=",
-http://coastalcenter.net/plugins/system/plugin_googlemap2_proxy.php?url=", 
-http://conodeluz.org/magnanet/plugins/content/plugin_googlemap2_proxy.php?url=",
-http://crawfordlivestock.com/plugins/system/plugin_googlemap2_proxy.php?url=",
-http://cultura-city.rv.ua/plugins/system/plugin_googlemap3_proxy.php?url=",
-http://diegoborba.com.br/andes/plugins/system/plugin_googlemap2/plugin_googlemap2_proxy.php?url=",
-http://doleorganic.com/plugins/content/plugin_googlemap2_proxy.php?url=",
-http://donellis.ie/plugins/system/plugin_googlemap2/plugin_googlemap2_proxy.php?url=",
-http://feedvalidator.org/check.cgi?url=",
-http://fets3.freetranslation.com/?Language=English%2FSpanish&Sequence=core&Url=",
-http://g.cn",
-http://gminazdzieszowice.pl/plugins/system/plugin_googlemap3/plugin_googlemap3_proxy.php?url=",
-http://gmodules.com/ig/creator?url=",
-htp://google.ac",
-http://google.ad",
-http://google.ae",
-http://google.al",
-http://google.am",
-http://google.as",
-http://google.at",
-http://google.az",
-http://google.ba",
-http://google.be",
-http://google.bf",
-http://google.bg",
-http://google.bi",
-ttp://google.bj",
-http://google.bs",
-http://google.by",
-http://google.ca",
-http://google.cat",
-http://google.cc",
-http://google.cd",
-http://google.cf",
-http://google.cg",
-http://google.ch",
-http://google.ci",
-http://google.cl",
-http://google.cm",
-http://google.cn",
-http://google.co.ao",
-http://google.co.bw",
-http://google.co.ck",
-http://google.co.cr",
-http://google.co.id",
-http://google.co.il",
-http://google.co.in",
-http://google.co.jp",
-http://google.co.ke",
-http://google.co.kr",
-http://google.co.ls",
-http://google.co.ma",
-http://google.co.mz",
-http://google.co.nz",
-ttp://google.co.th",
-ttp://google.co.tz",
-http://google.co.ug",
-http://google.co.uk",
-http://google.co.uz",
-http://google.co.ve",
-http://google.co.vi",
-http://google.co.za",
-http://google.co.zm",
-http://google.co.zw",
-http://google.com",
-http://google.com.af",
-htttp://google.com.ag",
-http://google.com.ai",
-http://google.com.ar",
-http://google.com.au",
-http://google.com.bd",
-http://google.com.bh",
-http://google.com.bn",
-http://google.com.bo",
-http://google.com.br",
-http://google.com.bz",
-http://google.com.co",
-http://google.com.cu",
-http://google.com.cy",
-http://google.com.do",
-http://google.com.ec",
-http://google.com.eg",
-http://google.com.et",
-                "http://google.com.fj",
-                "http://google.com.gh",
-                "http://google.com.gi",
-                "http://google.com.gt",
-                "http://google.com.hk",
-                "http://google.com.jm",
-                "http://google.com.kh",
-                "http://google.com.kw",
-                "http://google.com.lb",
-                "http://google.com.lc",
-                "http://google.com.ly",
-                "http://google.com.mm",
-                "http://google.com.mt",
-                "http://google.com.mx",
-                "http://google.com.my",
-                "http://google.com.na",
-                "http://google.com.nf",
-                "http://google.com.ng",
-                "http://google.com.ni",
-                "http://google.com.np",
-                "http://google.com.om",
-                "http://google.com.pa",
-                "http://google.com.pe",
-                "http://google.com.pg",
-                "http://google.com.ph",
-                "http://google.com.pk",
-                "http://google.com.pr",
-                "http://google.com.py"
+https://www.facebook.com/l.php?u=https://www.facebook.com/l.php?u=
+https://www.facebook.com/sharer/sharer.php?u=https://www.facebook.com/sharer
+sharer.php?u=
+https://drive.google.com/viewerng/viewer?url=
+https://www.google.com/translate?u=
+http://66.20.105.143/bitess/plugins/content/plugin_googlemap2_proxy.php?url=
+ttp://about42.nl/www/showheaders.php;POST;about42.nl.txt
+http://agenzia-anna.com/plugins/system/plugin_googlemap2/plugin_googlemap2_proxy.php?url=
+http://anonymouse.org/cgi-bin/anon-www.cgi/
+http://basketgbkoekelare.be/plugins/content/plugin_googlemap2_proxy.php?url=
+http://bbtoma.com/plugins/content/plugin_googlemap2_proxy.php?url=
+http://bemaxjavea.com/javea-rentals-alquileres/plugins/content/plugin_googlemap2_proxy.php?url=
+ttp://bike-electric.co.uk/plugins/system/plugin_googlemap3/plugin_googlemap3_proxy.php?url=
+htp://browsershots.org;POST;browsershots.org.txt
+http://bwsnt1.pdsda.net/plugins/system/plugin_googlemap3_proxy.php?url=
+http://centrobrico.net/plugins/content/plugin_googlemap2_proxy.php?url=
+http://check-host.net/check-http?host=
+http://coastalcenter.net/plugins/system/plugin_googlemap2_proxy.php?url=
+http://conodeluz.org/magnanet/plugins/content/plugin_googlemap2_proxy.php?url=
+http://crawfordlivestock.com/plugins/system/plugin_googlemap2_proxy.php?url=
+http://cultura-city.rv.ua/plugins/system/plugin_googlemap3_proxy.php?url=
+http://diegoborba.com.br/andes/plugins/system/plugin_googlemap2/plugin_googlemap2_proxy.php?url=
+http://doleorganic.com/plugins/content/plugin_googlemap2_proxy.php?url=
+http://donellis.ie/plugins/system/plugin_googlemap2/plugin_googlemap2_proxy.php?url=
+http://feedvalidator.org/check.cgi?url=
+http://fets3.freetranslation.com/?Language=English%2FSpanish&Sequence=core&Url=
+http://g.cn
+http://gminazdzieszowice.pl/plugins/system/plugin_googlemap3/plugin_googlemap3_proxy.php?url=
+http://gmodules.com/ig/creator?url=
+htp://google.ac
+http://google.ad
+http://google.ae
+http://google.al
+http://google.am
+http://google.as
+http://google.at
+http://google.az
+http://google.ba
+http://google.be
+http://google.bh
+http://google.bg
+http://google.bi
+ttp://google.bj
+http://google.bs
+http://google.by
+http://google.ca
+http://google.cat
+http://google.cc
+http://google.cd
+http://google.cf
+http://google.cg
+http://google.c
+http://google.ci
+http://google.cl
+http://google.cm
+http://google.cn
+http://google.co.ao
+http://google.co.bw
+http://google.co.ck
+http://google.co.cr
+http://google.co.id
+http://google.co.il
+http://google.co.in
+http://google.co.jp
+http://google.co.ke
+http://google.co.kr
+http://google.co.ls
+http://google.co.ma
+http://google.co.mz
+http://google.co.nz
+ttp://google.co.th
+ttp://google.co.tz
+http://google.co.ug
+http://google.co.uk
+http://google.co.uz
+http://google.co.ve
+http://google.co.vi
+http://google.co.za
+http://google.co.zm
+http://google.co.zw
+http://google.com
+http://google.com.af
+htttp://google.com.ag
+http://google.com.ai
+http://google.com.ar
+http://google.com.au
+http://google.com.bd
+http://google.com.bh
+http://google.com.bn
+http://google.com.bo
+http://google.com.br
+http://google.com.bz
+http://google.com.co
+http://google.com.cu
+http://google.com.cy
+http://google.com.do
+http://google.com.ec
+http://google.com.eg
+http://google.com.et
+http://google.com.f
+http://google.com.gh
+http://google.com.gi
+http://google.com.gt
+http://google.com.hk
+http://google.com.jm
+http://google.com.k
+http://google.com.kw
+http://google.com.lb
+http://google.com.lc
+http://google.com.ly
+http://google.com.mm
+http://google.com.mt
+http://google.com.mx
+http://google.com.my
+http://google.com.na
+http://google.com.nf
+http://google.com.ng
+http://google.com.ni
+http://google.com.np
+http://google.com.om
+http://google.com.pa
+http://google.com.pe
+http://google.com.pg
+http://google.com.ph
+http://google.com.pk
+http://google.com.pr
+http://google.com.py
