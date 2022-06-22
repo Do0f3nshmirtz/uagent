@@ -835,16 +835,12 @@ class HttpFlood(Thread):
                 "http://google.ne", 
                 "http://google.nl", 
                 "http://google.no", 
-
-
                 "http://google.nr", 
                 "http://google.nu",
-
                 "http://google.pl", 
                 "http://google.pn", 
                 "http://google.ps", 
                 "http://google.pt", 
-
                 "http://google.ro", 
                 "http://google.rs", 
                 "http://google.ru", 
