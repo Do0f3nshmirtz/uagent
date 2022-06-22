@@ -1233,7 +1233,6 @@ class HttpFlood(Thread):
         self._payload = (self._defaultpayload +
                          'Accept-Encoding: gzip, deflate, br\r\n'
                          'Accept-Language: en-US,en;q=0.9\r\n'
-???END
                          'Cache-Control: max-age=0\r\n'
                          'Connection: keep-alive\r\n'
                          'Sec-Fetch-Dest: document\r\n'
@@ -2157,9 +2156,9 @@ if __name__ == '__main__':
                 if not uagents: exit("Empty Useragent File ")
                 if not referers: exit("Empty Referer File ")
 
-                if threads > 1000:
+                if threads > 100000:
                     logger.warning("Thread is higher than 1000")
-                if rpc > 100:
+                if rpc > 50000:
                     logger.warning(
                         "RPC (Request Pre Connection) is higher than 100")
 
